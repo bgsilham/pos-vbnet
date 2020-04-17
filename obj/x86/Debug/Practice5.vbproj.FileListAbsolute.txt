@@ -1,0 +1,10 @@
+F:\AppPenjualan\Practice5\Practice5\bin\Debug\Practice5.exe
+F:\AppPenjualan\Practice5\Practice5\bin\Debug\Practice5.pdb
+F:\AppPenjualan\Practice5\Practice5\bin\Debug\Practice5.xml
+F:\AppPenjualan\Practice5\Practice5\obj\x86\Debug\Practice5.MainFOrm.resources
+F:\AppPenjualan\Practice5\Practice5\obj\x86\Debug\Practice5.Resources.resources
+F:\AppPenjualan\Practice5\Practice5\obj\x86\Debug\Practice5.vbproj.GenerateResource.Cache
+F:\AppPenjualan\Practice5\Practice5\obj\x86\Debug\Practice5.exe
+F:\AppPenjualan\Practice5\Practice5\obj\x86\Debug\Practice5.xml
+F:\AppPenjualan\Practice5\Practice5\obj\x86\Debug\Practice5.pdb
+F:\AppPenjualan\Practice5\Practice5\obj\x86\Debug\Practice5.LoginForm.resources
